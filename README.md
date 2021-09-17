@@ -1,1 +1,2 @@
-A landing page for TinDog
+Landing page for TinDog.
+(HTML & CSS)
